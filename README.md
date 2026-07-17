@@ -62,7 +62,7 @@ Traditional SEO optimizes for clicks. GEO optimizes for **trustworthiness and ch
 
 ## Related
 
-- **[The FAN Framework](https://github.com/annayork303/geo-keyword-reserach)** — the GEO keyword research methodology that pairs with this playbook: find the queries first, then make the content citable.
+- **[The FAN Framework]([https://github.com/annayork303/geo-keyword-research)** — the GEO keyword research methodology that pairs with this playbook: find the queries first, then make the content citable.
 
 ## About the author
 
